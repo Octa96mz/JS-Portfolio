@@ -5,8 +5,8 @@ import instagram from '@images/instagram.png';
 
 
 const Template = async () => {
-  const data = await getData();
-  const view = `
+  getData().then((data)=>{
+    const view = `
     <div class="About">
       <div class="card">
         <div class="card_details">
@@ -41,6 +41,8 @@ const Template = async () => {
     </div>
   `;
   return view;
+  });
+  
 };
 
 export default Template;
