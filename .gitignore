@@ -1,4 +1,11 @@
 # Logs
+.env
+.babelrc
+.env
+.toml
+package-lock.json
+webpack.config.dev.js
+webpack.config.js
 logs
 *.log
 npm-debug.log*
