@@ -1,7 +1,7 @@
 {
   "name": "js-portfolio",
   "version": "1.0.0",
-  "description": "A minimal portfolio with Vanilla JavaScript",
+  "description": "A minimal portfolio with webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://github.com/Octa96mz/JS-Portfolio"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Octavio Montoya <Octa96mz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://github.com/Octa96mz/JS-Portfolio"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://github.com/Octa96mz/JS-Portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/plugin-transform-runtime": "^7.21.4",
